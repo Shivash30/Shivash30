@@ -1,6 +1,6 @@
 <div>
-  <h2>Hi 👋! My name is Shivash and I'm a software developer</h2>
-  <img align="right" width=100px src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif">
+  <h2>Hi 👋! My name is Shivash and I'm a software developer <img align="right" width=100px src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif"></h2>
+  
 </div>
 
 ###
