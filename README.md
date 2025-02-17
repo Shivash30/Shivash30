@@ -9,6 +9,8 @@
 
 ###
 
+<h2>Tech Stack</h2>
+
 <div align="left">
   <img alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img width="12" />
