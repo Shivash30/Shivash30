@@ -1,5 +1,5 @@
 <div>
-  <h2>Hi! My name is Shivash and I am a software developer <img width=100px src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif"></h2>
+  <h2>Hi! My name is Shivash and I am a software developer <img width=75px src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif"></h2>
   
 </div>
 
