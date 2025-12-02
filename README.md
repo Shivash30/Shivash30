@@ -1,39 +1,75 @@
+🌌 Hey, I'm Shivash
+Junior Backend Developer | Practical Full-Stack Builder | Cloud-Driven Problem Solver
+<img src="https://via.placeholder.com/1000x250?text=Your+Anime+Banner+Here" />
+🚀 About Me
 
-###
+I enjoy building clean, reliable backend systems and taking ideas from
+concept → database → API → UI.
 
+I love:
 
-<!--
-# Shivash Jurakan :space_invader:
+🧩 Solving tough backend problems
 
-**Aspiring Software Developer**
----
-### 🧰 Languages and Tools
+🐞 Debugging complex issues
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Dot-Net" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Blazor" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
+🔄 Making data flow smoothly through full applications
 
-<br />
+🧪 Designing practical, maintainable systems
 
+🛠️ Core Skills
+Backend
 
-**Shivash30/Shivash30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java 21 • Spring Boot • .NET • C#
 
-Here are some ideas to get you started:
+Frontend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Blazor
+
+Databases
+
+🗄 PostgreSQL • SQL Server • MongoDB
+
+Cloud
+
+☁ Azure Functions • App Services • Storage
+
+Data / BI
+
+📊 Power BI • SSIS
+
+Other
+
+🔗 REST APIs • Clean Architecture • Problem Solving • Debugging
+
+⚙️ What I’m Currently Working On
+
+🏗 Building end-to-end apps that solve real-world problems
+
+🌱 Strengthening Spring Boot + Cloud development
+
+🧼 Writing clean, maintainable backend architecture
+
+⚡ Practical full-stack systems that are actually useful
+
+🧪 What I Like Building
+
+🛠 Real-world tools
+
+🔌 APIs + dashboards
+
+🤖 Automation
+
+🌐 Practical full-stack apps
+
+🌀 Redesigns/clones of existing systems
+
+🎯 My Goal
+
+To become a strong backend engineer who can design, architect, and ship
+complete cloud-enabled applications from the ground up.
+
+📬 Let’s Connect
+
+Always open to collaboration, ideas, or building something cool.
+
+<img src="https://via.placeholder.com/1000x250?text=Anime+Footer+Art" />
