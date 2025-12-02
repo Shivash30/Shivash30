@@ -1,75 +1,68 @@
-🌌 Hey, I'm Shivash
-Junior Backend Developer | Practical Full-Stack Builder | Cloud-Driven Problem Solver
-<img src="https://via.placeholder.com/1000x250?text=Your+Anime+Banner+Here" />
-🚀 About Me
+# 🌌 Hey, I'm Shivash  
+**Junior Backend Developer | Practical Full-Stack Builder | Cloud-Driven Problem Solver**
 
-I enjoy building clean, reliable backend systems and taking ideas from
-concept → database → API → UI.
+![Anime Banner](https://images.unsplash.com/photo-1618336753974-3e7f3c7f6a6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
 
-I love:
+---
 
-🧩 Solving tough backend problems
+## 🚀 About Me
+I enjoy building clean, reliable backend systems and taking ideas from  
+**concept → database → API → UI.**
 
-🐞 Debugging complex issues
+### I love:
+- 🧩 Solving tough backend problems  
+- 🐞 Debugging complex issues  
+- 🔄 Making data flow smoothly through full applications  
+- 🧪 Designing practical, maintainable systems  
 
-🔄 Making data flow smoothly through full applications
+---
 
-🧪 Designing practical, maintainable systems
+## 🛠️ Core Skills
 
-🛠️ Core Skills
-Backend
+**Backend**  
+💻 Java 21 • Spring Boot • .NET • C#  
 
-💻 Java 21 • Spring Boot • .NET • C#
+**Frontend**  
+🎨 Blazor  
 
-Frontend
+**Databases**  
+🗄 PostgreSQL • SQL Server • MongoDB  
 
-🎨 Blazor
+**Cloud**  
+☁ Azure Functions • App Services • Storage  
 
-Databases
+**Data / BI**  
+📊 Power BI • SSIS  
 
-🗄 PostgreSQL • SQL Server • MongoDB
+**Other**  
+🔗 REST APIs • Clean Architecture • Problem Solving • Debugging  
 
-Cloud
+---
 
-☁ Azure Functions • App Services • Storage
+## ⚙️ What I’m Currently Working On
+- 🏗 Building end-to-end apps that solve real-world problems  
+- 🌱 Strengthening Spring Boot + Cloud development  
+- 🧼 Writing clean, maintainable backend architecture  
+- ⚡ Practical full-stack systems that are actually useful  
 
-Data / BI
+---
 
-📊 Power BI • SSIS
+## 🧪 What I Like Building
+- 🛠 Real-world tools  
+- 🔌 APIs + dashboards  
+- 🤖 Automation  
+- 🌐 Practical full-stack apps  
+- 🌀 Redesigns/clones of existing systems  
 
-Other
+---
 
-🔗 REST APIs • Clean Architecture • Problem Solving • Debugging
+## 🎯 My Goal
+To become a strong backend engineer who can design, architect, and ship  
+complete cloud-enabled applications from the ground up.  
 
-⚙️ What I’m Currently Working On
+---
 
-🏗 Building end-to-end apps that solve real-world problems
+## 📬 Let’s Connect
+Always open to collaboration, ideas, or building something cool.  
 
-🌱 Strengthening Spring Boot + Cloud development
-
-🧼 Writing clean, maintainable backend architecture
-
-⚡ Practical full-stack systems that are actually useful
-
-🧪 What I Like Building
-
-🛠 Real-world tools
-
-🔌 APIs + dashboards
-
-🤖 Automation
-
-🌐 Practical full-stack apps
-
-🌀 Redesigns/clones of existing systems
-
-🎯 My Goal
-
-To become a strong backend engineer who can design, architect, and ship
-complete cloud-enabled applications from the ground up.
-
-📬 Let’s Connect
-
-Always open to collaboration, ideas, or building something cool.
-
-<img src="https://via.placeholder.com/1000x250?text=Anime+Footer+Art" />
+![Anime Footer](https://images.unsplash.com/photo-1618336753974-3e7f3c7f6a6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
