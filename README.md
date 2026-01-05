@@ -63,4 +63,3 @@ complete cloud-enabled applications from the ground up.
 ## 📬 Let’s Connect
 Always open to collaboration, ideas, or building something cool.  
 
-![Anime Footer](https://images.unsplash.com/photo-1618336753974-3e7f3c7f6a6f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80)
